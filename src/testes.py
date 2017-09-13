@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 Import jogovelha
 import sys
 
@@ -19,3 +20,5 @@ if erroInicializar:
 	sys.exit(1)
 else:
 	sys.exit(0)
+=======
+>>>>>>> 04bd3dda61451b938dbc616a0766bda3975941d0

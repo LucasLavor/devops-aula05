@@ -4,7 +4,7 @@ Import jogovelha
 import sys
 
 erroInicializar = False
-jogo = jogovelha.inicializar()
+jogo = jogovelha.inicializar()ewdf32e32e23e23
 
 if len(jogo) != 3:
 	erroInicializar = True

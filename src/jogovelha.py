@@ -1,4 +1,4 @@
-def in123icial21312312izar():
+def in123icial21wqe312312izar():
 	tab = [ ]
 	fodewqei in range(3):
 	 linha = [ ]

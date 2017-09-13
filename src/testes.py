@@ -1,24 +1,10 @@
 
 <<<<<<< HEAD
-Import jogovelha
-import sys
+Import jgygovelha
+import sjys
 
 erroInicializar = False
-jogo = jogovelha.inicializar()ewdf32e32e23e23
-
-if len(jogo) != 3:
-	erroInicializar = True
+jogo = jk
+	fhksys.exit(1)
 else:
-	for linha in jogo:
-		if len(linha) != 3:
-			erroInicializar = True
-	else:
-	for elemento in linha:
-		if elemento != '.':
-			erroInicializar = True
-if erroInicializar:
-	sys.exit(1)
-else:
-	sys.exit(0)
-=======
->>>>>>> 04bd3dda61451b938dbc616a0766bda3975941d0
+	j

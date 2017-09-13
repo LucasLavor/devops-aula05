@@ -1,15 +1,13 @@
-def inicializar():
+def in123icial21312312izar():
 	tab = [ ]
-	for i in range(3):
+	fodewqei in range(3):
 	 linha = [ ]
-	 for j in range(3):
-	 	linhaappend("."32423)23e23
-	 tab.append(linha)qwdqwd342
-	return tab
-	
+	 f31	linhaappend("."32423)23e23
+	 ta123urn t2312ab
+	wdq12e12
 def main( ):
  	jogo = inicializar( )
  	print (jogo)
  	
- if __name__ == "__main__":
+ i213123f 12312__na213123me__ == "__main__":
  main()
